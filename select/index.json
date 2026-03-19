@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "YOSEMITE",
+  "base_artist": "Travis Scott",
+  "createdAt": "2026-03-19T18:40:15.396351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/01_Yosemite_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yosemite Theme",
+      "artist": "The Go! Team",
+      "has_synced": true,
+      "path": "select/02_Yosemite_Theme_The_Go!_Team.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOSEMITE",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/03_YOSEMITE_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YOSEMITE (feat. Gunna & Nav)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/04_YOSEMITE_(feat._Gunna_&_Nav)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "half•alive",
+      "has_synced": true,
+      "path": "select/05_Yosemite_half•alive.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "half·alive",
+      "has_synced": true,
+      "path": "select/06_Yosemite_half·alive.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "Lana Del Ray",
+      "has_synced": true,
+      "path": "select/07_Yosemite_Lana_Del_Ray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yosemite (feat. Dave Matthews)",
+      "artist": "Molly Tuttle feat. Molly Tuttle & Golden Highway & Dave Matthews",
+      "has_synced": true,
+      "path": "select/08_Yosemite_(feat._Dave_Matthews)_Molly_Tuttle_feat._Molly_Tuttle_&_Golden_Highway_&_Dave_Matthews.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yosemite (feat. Dave Matthews)",
+      "artist": "Molly Tuttle & Golden Highway",
+      "has_synced": true,
+      "path": "select/09_Yosemite_(feat._Dave_Matthews)_Molly_Tuttle_&_Golden_Highway.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yosemite Park",
+      "artist": "Sheldon",
+      "has_synced": true,
+      "path": "select/10_Yosemite_Park_Sheldon.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "Vancouver Sleep Clinic",
+      "has_synced": true,
+      "path": "select/11_Yosemite_Vancouver_Sleep_Clinic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yosemite",
+      "artist": "Parker Millsap",
+      "has_synced": true,
+      "path": "select/12_Yosemite_Parker_Millsap.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "East Yosemite",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/13_East_Yosemite_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "East Yosemite",
+      "artist": "Grandaddy, Jason Lytle",
+      "has_synced": true,
+      "path": "select/14_East_Yosemite_Grandaddy,_Jason_Lytle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Travis Scott - YOSEMITE",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/15_Travis_Scott_-_YOSEMITE_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "YOSEMITE",
+      "artist": "TravisScottVEVO",
+      "has_synced": true,
+      "path": "select/16_YOSEMITE_TravisScottVEVO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Yosemite (feat. Dave Matthews)",
+      "artist": "Molly Tuttle",
+      "has_synced": false,
+      "path": "select/17_Yosemite_(feat._Dave_Matthews)_Molly_Tuttle.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOSEMITE",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_YOSEMITE_Travis_Scott.txt"
+    }
+  ]
+}
